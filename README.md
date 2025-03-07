@@ -22,3 +22,13 @@ This project demonstrates the deployment of monitoring tools to optimize Azure r
 
 ---
 
+## 📌 Getting Started
+
+- steps for monitoring and cost management...
+
+---
+
+## 🤝 Contributing & Collaboration
+
+I’m open to collaborating on **Cloud Infrastructure**, **DevOps projects**, and **automation initiatives**. Feel free to connect for collaboration or knowledge exchange!
+
