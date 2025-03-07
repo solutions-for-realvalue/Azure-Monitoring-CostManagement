@@ -32,3 +32,15 @@ This project demonstrates the deployment of monitoring tools to optimize Azure r
 
 I’m open to collaborating on **Cloud Infrastructure**, **DevOps projects**, and **automation initiatives**. Feel free to connect for collaboration or knowledge exchange!
 
+---
+
+## 📜 License
+
+Content and projects within this repository are licensed under the [MIT License](LICENSE).
+
+---
+
+## 📧 Contact & Connect
+
+📩 **Email**: [natureuplift@protonmail.com](mailto:natureuplift@protonmail.com)  
+<!-- 🔗 **LinkedIn**: [Arnaldo Sepulveda](https://www.linkedin.com/in/arnaldo-sepulveda) -->
