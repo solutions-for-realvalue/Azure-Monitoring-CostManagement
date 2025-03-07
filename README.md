@@ -13,3 +13,12 @@ This project demonstrates the deployment of monitoring tools to optimize Azure r
 - Azure Monitor dashboards for resource health.
 - Custom alerts for resource performance and cost thresholds.
 - Optimization through resource tagging and budget alerts.
+
+## 🌟 Core Skills Demonstrated
+
+- **Monitoring & Cost Management**: Azure Monitor, Prometheus, Grafana, Resource Tagging, Budget Alerts
+- **IaC & Automation**: Terraform, ARM Templates, PowerShell
+- **Cloud Environments**: Azure Compute, Azure Storage, Azure Networks
+
+---
+
