@@ -34,6 +34,25 @@ This project showcases **Azure monitoring and cost optimization techniques**, en
     *   [Azure Monitoring Essentials](https://www.udemy.com/course/azure-infrastructure-managing-cost-governance-monitoring/)
     *   [Microsoft Learn: Monitor & Optimize Performance](https://learn.microsoft.com/en-us/training/paths/monitor-azure/)
 
+### 🛠️ **Phase 2: Cost Management & Budgeting**
+
+*   Implement resource tagging for cost allocation.
+*   Set up budget alerts to control cloud spending.
+*   Utilize Azure Advisor recommendations for cost-saving strategies.
+
+    **📚 Relevant Courses:**
+    *   [Azure Cost Optimization Strategies](https://azure.microsoft.com/en-ca/solutions/cost-optimization)
+    *   [Microsoft Learn: Manage Azure Costs](https://learn.microsoft.com/en-us/training/modules/manage-costs-azure/)
+
+
+
+
+
+
+
+
+
+
 ## 🌟 Core Skills Demonstrated
 
 - **Monitoring & Cost Management**: Azure Monitor, Prometheus, Grafana, Resource Tagging, Budget Alerts
