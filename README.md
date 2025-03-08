@@ -46,9 +46,9 @@ This project showcases **Azure monitoring and cost optimization techniques**, en
 
 ### 🛠️ **Phase 3: Advanced Alerting & Security Monitoring**
 
-*   Implement Application Insights for app performance monitoring.
-*   Deploy Prometheus & Grafana for Kubernetes monitoring.
-*   Use Azure Sentinel for threat detection and security analytics.
+*   Implement **Application Insights** for app performance monitoring.
+*   Deploy **Prometheus & Grafana** for Kubernetes monitoring.
+*   Use **Azure Sentinel** for threat detection and security analytics.
 
     **📚 Relevant Courses:**
     *   [Microsoft Sentinel Hands-On Labs](https://www.udemy.com/course/microsoft-sentinel-course-with-hands-on-sims/)
