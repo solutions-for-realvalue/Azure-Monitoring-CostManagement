@@ -64,7 +64,26 @@ This project showcases **Azure monitoring and cost optimization techniques**, en
     *   [Azure Automation](https://azure.microsoft.com/en-us/pricing/details/automation/) & [Azure Optimization](https://azure.microsoft.com/en-us/products/automation/)
     *   [Microsoft Learn: Automate Monitoring & Alerts](https://learn.microsoft.com/en-us/training/modules/automate-monitoring-alerts/)
 
+---
 
+## 📂 Repository Structure
+
+```bash
+Azure-Monitoring-CostManagement/
+│── README.md                  # Overview & Best Practices
+│── Monitoring/
+│   ├── azure-monitor-config.tf # Azure Monitor Configuration
+│   ├── log-analytics.tf        # Log Analytics Setup
+│   ├── prometheus-config.yaml  # Prometheus for Kubernetes Monitoring
+│   ├── grafana-dashboards/     # Grafana Dashboards
+│── Cost-Management/
+│   ├── budget-alerts.tf        # Cost Alerts & Notifications
+│   ├── resource-tagging.tf     # Cost Allocation & Optimization
+│── Security/
+│   ├── sentinel-config.tf      # Security Threat Monitoring
+│── LICENSE
+│── Journal.md                  # Learning Log & Progress Tracking
+```
 
 
 ## 🌟 Core Skills Demonstrated
