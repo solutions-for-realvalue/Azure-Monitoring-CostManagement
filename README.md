@@ -61,7 +61,8 @@ This project showcases **Azure monitoring and cost optimization techniques**, en
 *   Use **AI-driven insights** for predictive monitoring.
 
     **📚 Relevant Courses:**
-    *   
+    *   [Azure Automation](https://azure.microsoft.com/en-us/pricing/details/automation/) & [Azure Optimization](https://azure.microsoft.com/en-us/products/automation/)
+    *   [Microsoft Learn: Automate Monitoring & Alerts](https://learn.microsoft.com/en-us/training/modules/automate-monitoring-alerts/)
 
 
 
