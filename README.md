@@ -85,18 +85,20 @@ Azure-Monitoring-CostManagement/
 │── Journal.md                  # Learning Log & Progress Tracking
 ```
 
-
-## 🌟 Core Skills Demonstrated
-
-- **Monitoring & Cost Management**: Azure Monitor, Prometheus, Grafana, Resource Tagging, Budget Alerts
-- **IaC & Automation**: Terraform, ARM Templates, PowerShell
-- **Cloud Environments**: Azure Compute, Azure Storage, Azure Networks
-
 ---
 
 ## 📌 Getting Started
 
-- steps for monitoring and cost management...
+- Follow the **setup guide** in the repository for step-by-step deployment instructions.
+
+---
+
+## 🌟 Core Skills Demonstrated
+
+*   **Monitoring & Cost Management**: Azure Monitor, Prometheus, Grafana, Resource Tagging, Budget Alerts
+*   **Cloud Automation**: Terraform, ARM Templates, Logic Apps.
+*   **Security & Compliance**: Azure Sentinel, Threat Detection, Log Analytics.
+*   **Optimization & Governance**: Auto-Scaling, Cost Efficiency Strategies.
 
 ---
 
