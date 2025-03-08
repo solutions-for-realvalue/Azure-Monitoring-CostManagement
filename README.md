@@ -1,6 +1,6 @@
 # Azure Monitoring & Cost Management 📊
 
-Deployed Azure Monitor with custom dashboards and alerts for optimal performance and cost efficiency.
+Comprehensive monitoring and cost optimization solutions using **Azure Monitor, Log Analytics, and Cost Management tools** to enhance cloud efficiency and performance.
 
 ---
 
