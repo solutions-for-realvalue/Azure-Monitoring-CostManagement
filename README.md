@@ -44,7 +44,15 @@ This project showcases **Azure monitoring and cost optimization techniques**, en
     *   [Azure Cost Optimization Strategies](https://azure.microsoft.com/en-ca/solutions/cost-optimization)
     *   [Microsoft Learn: Manage Azure Costs](https://learn.microsoft.com/en-us/training/modules/manage-costs-azure/)
 
+### 🛠️ **Phase 3: Advanced Alerting & Security Monitoring**
 
+*   Implement Application Insights for app performance monitoring.
+*   Deploy Prometheus & Grafana for Kubernetes monitoring.
+*   Use Azure Sentinel for threat detection and security analytics.
+
+    **📚 Relevant Courses:**
+    *   [Microsoft Sentinel Hands-On Labs](https://www.udemy.com/course/microsoft-sentinel-course-with-hands-on-sims/)
+    *   [Azure Security & Monitoring Deep Dive](https://techcommunity.microsoft.com/event/microsoft-security-events/azure-security-deep-dive-series/3755061)
 
 
 
