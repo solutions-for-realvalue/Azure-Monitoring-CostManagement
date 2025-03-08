@@ -14,9 +14,22 @@ This project showcases **Azure monitoring and cost optimization techniques**, en
 
 ## 🛠️ Key Features
 
-- Azure Monitor dashboards for resource health.
-- Custom alerts for resource performance and cost thresholds.
-- Optimization through resource tagging and budget alerts.
+*   **Azure Monitor Dashboards**: Custom visualizations for real-time performance insights.
+*   **Log Analytics & Metrics Tracking**: Store and analyze cloud resource logs.
+*   **Cost Management Strategies**: Implement resource tagging, budget alerts, and auto-scaling.
+*   **Automated Alerting**: Detect anomalies in resource usage and spending.
+*   **Integration with Third-Party Monitoring Tools**: Support for **Prometheus, Grafana, and Application Insights**.
+
+---
+
+## 📖 Learning Roadmap
+
+
+
+
+
+
+https://www.udemy.com/course/azure-infrastructure-managing-cost-governance-monitoring/
 
 ## 🌟 Core Skills Demonstrated
 
