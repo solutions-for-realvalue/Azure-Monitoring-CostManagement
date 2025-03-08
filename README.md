@@ -56,9 +56,9 @@ This project showcases **Azure monitoring and cost optimization techniques**, en
 
 ### 🛠️ **Phase 4: Automation & Optimization**
 
-*   Implement Application Insights for app performance monitoring.
-*   Deploy Prometheus & Grafana for Kubernetes monitoring.
-*   Use Azure Sentinel for threat detection and security analytics.
+*   Implement auto-scaling policies to optimize resource usage.
+*   Automate cost management workflows with Azure Logic Apps.
+*   Use AI-driven insights for predictive monitoring.
 
     **📚 Relevant Courses:**
     *   
