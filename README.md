@@ -56,9 +56,9 @@ This project showcases **Azure monitoring and cost optimization techniques**, en
 
 ### 🛠️ **Phase 4: Automation & Optimization**
 
-*   Implement auto-scaling policies to optimize resource usage.
-*   Automate cost management workflows with Azure Logic Apps.
-*   Use AI-driven insights for predictive monitoring.
+*   Implement **auto-scaling policies** to optimize resource usage.
+*   Automate **cost management workflows** with Azure Logic Apps.
+*   Use **AI-driven insights** for predictive monitoring.
 
     **📚 Relevant Courses:**
     *   
