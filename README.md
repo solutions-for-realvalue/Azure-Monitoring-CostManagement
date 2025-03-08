@@ -104,7 +104,11 @@ Azure-Monitoring-CostManagement/
 
 ## 🤝 Contributing & Collaboration
 
-I’m open to collaborating on **Cloud Infrastructure**, **DevOps projects**, and **automation initiatives**. Feel free to connect for collaboration or knowledge exchange!
+*    Fork the repository & create a branch.
+*    Commit clear and descriptive changes.
+*    Submit a pull request.
+
+I’m open to collaborating on Cloud Monitoring, Cost Optimization, and AI-driven Analytics. Feel free to connect!
 
 ---
 
@@ -117,4 +121,4 @@ Content and projects within this repository are licensed under the [MIT License]
 ## 📧 Contact & Connect
 
 📩 **Email**: [natureuplift@protonmail.com](mailto:natureuplift@protonmail.com)  
-<!-- 🔗 **LinkedIn**: [Arnaldo Sepulveda](https://www.linkedin.com/in/arnaldo-sepulveda) -->
+🔗 **LinkedIn**: [Arnaldo Sepulveda](https://www.linkedin.com/in/arnaldo-sepulveda)
