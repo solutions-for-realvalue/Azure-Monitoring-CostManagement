@@ -24,12 +24,15 @@ This project showcases **Azure monitoring and cost optimization techniques**, en
 
 ## 📖 Learning Roadmap
 
+### 🛠️ **Phase 1: Azure Monitor & Log Analytics**
 
+*   Deploy **Azure Monitor**** for **real-time observability**.
+*   Configure **Log Analytics Workspaces** to store and analyze logs.
+*   Set up **metric-based alerts** for proactive issue detection.
 
-
-
-
-https://www.udemy.com/course/azure-infrastructure-managing-cost-governance-monitoring/
+    **📚 Relevant Courses:**
+    *   [Azure Monitoring Essentials](https://www.udemy.com/course/azure-infrastructure-managing-cost-governance-monitoring/)
+    *   [Microsoft Learn: Monitor & Optimize Performance](https://learn.microsoft.com/en-us/training/paths/monitor-azure/)
 
 ## 🌟 Core Skills Demonstrated
 
