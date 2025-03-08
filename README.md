@@ -36,9 +36,9 @@ This project showcases **Azure monitoring and cost optimization techniques**, en
 
 ### 🛠️ **Phase 2: Cost Management & Budgeting**
 
-*   Implement resource tagging for cost allocation.
-*   Set up budget alerts to control cloud spending.
-*   Utilize Azure Advisor recommendations for cost-saving strategies.
+*   Implement **resource tagging** for cost allocation.
+*   Set up **budget alerts** to control cloud spending.
+*   Utilize **Azure Advisor** recommendations for cost-saving strategies.
 
     **📚 Relevant Courses:**
     *   [Azure Cost Optimization Strategies](https://azure.microsoft.com/en-ca/solutions/cost-optimization)
@@ -54,9 +54,14 @@ This project showcases **Azure monitoring and cost optimization techniques**, en
     *   [Microsoft Sentinel Hands-On Labs](https://www.udemy.com/course/microsoft-sentinel-course-with-hands-on-sims/)
     *   [Azure Security & Monitoring Deep Dive](https://techcommunity.microsoft.com/event/microsoft-security-events/azure-security-deep-dive-series/3755061)
 
+### 🛠️ **Phase 4: Automation & Optimization**
 
+*   Implement Application Insights for app performance monitoring.
+*   Deploy Prometheus & Grafana for Kubernetes monitoring.
+*   Use Azure Sentinel for threat detection and security analytics.
 
-
+    **📚 Relevant Courses:**
+    *   
 
 
 
