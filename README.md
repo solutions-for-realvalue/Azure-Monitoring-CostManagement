@@ -7,10 +7,13 @@ Comprehensive monitoring and cost optimization solutions using **Azure Monitor, 
 ## 📖 Project Overview
 
 This project showcases **Azure monitoring and cost optimization techniques**, enabling organizations to:
-*   Track resource utilization and performance with Azure Monitor.
-*   Set up automated alerts for cost control and resource scaling.
-*   Optimize cloud expenditure using resource tagging and budget alerts.
-*   Leverage dashboards to visualize real-time metrics and trends.
+*   **Track resource utilization and performance** with Azure Monitor.
+*   **Set up automated alerts** for cost control and resource scaling.
+*   **Optimize cloud expenditure** using resource tagging and budget alerts.
+*   **Leverage dashboards** to visualize real-time metrics and trends.
+*   **Integrate third-party tools** like **Prometheus, Grafana, and Application Insights** for comprehensive monitoring.
+
+---
 
 ## 🛠️ Key Features
 
